@@ -2,7 +2,7 @@
 title: RMD 
 output: 
   html_document:
-  keep_md: true
+    keep_md: true
 ---
   
 c <- 2+2
